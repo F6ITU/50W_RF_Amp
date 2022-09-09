@@ -33,7 +33,7 @@ More powerful, more sensitive, less expensive, more modern, this final stage use
 https://wiki.electrolab.fr/Projets:Lab:2017:Peripheriques_Angelia#Alexiares_lpf
 
 The code name Diomede was given to this amplifier to match the OpenHPSDR naming scheme. 
-Diomedes, hero of the Illiad, was one of the most powerful warrior of the Argian clan, opponent of Appolo the defender of Troy. Appolo is the code name of the very first amplifier associated with a low-pass filter proposed by the OpenHPSDR 
+Diomedes, hero of the Illiad, was one of the most powerful warrior of the Argian clan, opponent of Apollo the defender of Troy. Apollo is the code name of the very first amplifier and low-pass filter tanddem proposed by the OpenHPSDR 
 
 https://openhpsdr.org/apollo.php
 
