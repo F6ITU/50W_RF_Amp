@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "autotransformer")(type "KiCad")(uri "C:/Users/marco/Documents/KiCad/Projets/Ampli_0_5W/Lib/autotransformer.kicad_sym")(options "")(descr ""))
+  (lib (name "autotransfo")(type "KiCad")(uri "C:/Users/marco/Documents/KiCad/Projets/Ampli_0_5W/Lib/autotransfo.kicad_sym")(options "")(descr ""))
+  (lib (name "aft05mp075n")(type "KiCad")(uri "C:/Users/marco/Documents/KiCad/Projets/Ampli_0_5W/Lib/AFT05MP075N/Symbole/aft05mp075n.kicad_sym")(options "")(descr ""))
+  (lib (name "afp05mp075n")(type "KiCad")(uri "${KIPRJMOD}/Symboles/afp05mp075n.kicad_sym")(options "")(descr ""))
+)
