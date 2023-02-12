@@ -2339,7 +2339,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0ebdef76-41dc-43e5-a6a5-51c683c6f501)
   )
-  (text "Todo\n- Vérifier perçages de fixation\n- Vérifier contact semelle/pcb/gnd (plaquage transistor) \n\n"
+  (text "Todo\n- Vérifier perçages de fixation\n- Vérifier contact semelle/pcb/gnd\n"
     (at 149.225 32.385 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 11f13304-bd4b-4b91-bb72-2e84ab0b85a5)
@@ -2868,8 +2868,8 @@
     (pin "2" (uuid 21c944eb-66e5-4909-8c47-4f6b5c1ad96f))
     (pin "3" (uuid f47c9a91-9e5e-438a-9ff9-c8275f6de02f))
     (pin "4" (uuid 1db5376d-f67d-430a-a131-73181d2a1d4e))
-    (pin "5" (uuid 852bc04d-c96f-47f6-8e5a-88dddecad048))
-    (pin "5" (uuid 852bc04d-c96f-47f6-8e5a-88dddecad048))
+    (pin "5" (uuid 852bc04d-c96f-47f6-8e5a-88dddecad049))
+    (pin "5" (uuid 852bc04d-c96f-47f6-8e5a-88dddecad049))
   )
 
   (symbol (lib_id "power:GND") (at 158.75 52.705 0) (unit 1)
