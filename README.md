@@ -26,9 +26,10 @@ and replaces advantageously the old and outdated  Pennywhistle linear amplifier
 
 https://openhpsdr.org/pennywhistle.php
 
+It should be noted that board's dimensions and mounting holes are completely compatible with Pennywhistle physical and mechanical design. In fact, Diomedes has been designed as a substitute amplifier. 
+The only major difference is the input allowed power (9 dBm for Diomedes, 27 dBm max for Pennywhistle).
 
-
-More powerful, more sensitive, less expensive, more modern, this final stage uses a tandem of LDMOS transistors. It is perfectly matched with the Alex low pass filter 
+More powerful, more sensitive, less expensive, modern, this final stage uses a tandem of LDMOS transistors. It is perfectly matched with the Alex low pass filter 
 
 https://wiki.electrolab.fr/Projets:Lab:2017:Peripheriques_Angelia#Alexiares_lpf
 
