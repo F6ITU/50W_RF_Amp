@@ -1,5 +1,5 @@
 (fp_lib_table
-  (lib (name "SMA_PINS")(type "KiCad")(uri "C:/Users/marco/Documents/KiCad/Projets/Ampli_0_5W/Lib/SMA_PINS.pretty")(options "")(descr ""))
   (lib (name "AFT05MP075N")(type "KiCad")(uri "${KIPRJMOD}/AFT05MP075N.pretty")(options "")(descr ""))
   (lib (name "Amidon_Binocular")(type "KiCad")(uri "${KIPRJMOD}/Amidon_Binocular.pretty")(options "")(descr ""))
+  (lib (name "SMA_PINS")(type "KiCad")(uri "${KIPRJMOD}/SMA_PINS.pretty")(options "")(descr ""))
 )
