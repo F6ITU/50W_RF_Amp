@@ -1565,7 +1565,7 @@
     (property "ki_keywords" "diode")
     (path "/06f71a23-179f-45d0-9b9a-1a667e34c21f")
     (attr smd)
-    (fp_text reference "D1" (at -1.675 0 -180) (layer "F.SilkS")
+    (fp_text reference "D1" (at -1.675 0) (layer "F.SilkS")
         (effects (font (size 0.7 0.7) (thickness 0.15)))
       (tstamp 9385be33-d48d-4257-8c07-24842288edd5)
     )
@@ -1605,10 +1605,10 @@
       (net 2 "GND") (pinfunction "K") (pintype "passive") (tstamp 35e6ef29-0f8a-4fd1-ab0f-c8dc03c36fe1))
     (pad "2" smd roundrect (at 1.125 0 270) (size 3.75 3.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1351352)
       (net 19 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp b2a1d9a6-3cfc-4395-81ae-99d96898a7eb))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_2114_3652Metric.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_T-1_P12.70mm_Horizontal.step"
+      (offset (xyz 20 4 2.5))
+      (scale (xyz 1.5 1.5 2))
+      (rotate (xyz -70 0 180))
     )
   )
 
