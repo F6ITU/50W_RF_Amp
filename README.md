@@ -1,6 +1,6 @@
 # 50W_RF_Amp, Codename Diomedes
 
-Diomedes is a HF amplifier designed by Manfred XQ6FOD, and intended to be used with any baseband SDR delivering no more than 5 to 10 dBm of  output power between 1 and 54 MHz. 
+Diomedes is a 47 dBm (50W) HF amplifier designed by Manfred XQ6FOD, and intended to be used with any baseband SDR delivering no more than 5 to 10 dBm of  output power between 1 and 54 MHz. 
 
 ![Diomedes, a 50W linear amplifier by XQ6FOD](https://github.com/F6ITU/50W_RF_Amp/blob/main/Diomedes.png)
 
